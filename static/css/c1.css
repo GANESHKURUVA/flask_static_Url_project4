@@ -1,0 +1,8 @@
+h1{
+    background-color: yellow;
+    color: blue;
+
+}
+body{
+    background: linear-gradient(180deg,orange,white,green);
+}
